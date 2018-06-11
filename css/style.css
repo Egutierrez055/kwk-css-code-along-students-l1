@@ -1,1 +1,13 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color: purple; 
+}
+
+h3 {
+  font-size: 300%;
+  color: green;
+  text-shadow: 2px 2px #ff0000;
+}
+
+div { 
+  border-style: dotted;
